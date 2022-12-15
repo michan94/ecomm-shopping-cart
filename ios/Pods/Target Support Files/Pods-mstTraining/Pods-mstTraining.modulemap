@@ -1,0 +1,6 @@
+module Pods_mstTraining {
+  umbrella header "Pods-mstTraining-umbrella.h"
+
+  export *
+  module * { export * }
+}

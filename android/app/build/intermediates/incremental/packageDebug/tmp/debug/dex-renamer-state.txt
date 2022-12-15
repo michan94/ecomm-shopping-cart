@@ -1,0 +1,4 @@
+#Mon Jul 12 12:04:13 PDT 2021
+base.0=/Users/mitch/mst-training/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

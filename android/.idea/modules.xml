@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mstTraining.iml" filepath="$PROJECT_DIR$/.idea/modules/mstTraining.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/mstTraining.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/mstTraining.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1269648478/mstTraining.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-1269648478/mstTraining.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/889521013/mstTraining.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/889521013/mstTraining.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1664200112/mstTraining.react-native-picker_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-1664200112/mstTraining.react-native-picker_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-735148665/mstTraining.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-735148665/mstTraining.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/782570142/mstTraining.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/782570142/mstTraining.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1656455222/mstTraining.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1656455222/mstTraining.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/589025409/mstTraining.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/589025409/mstTraining.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>

@@ -62,7 +62,7 @@ In this project, you will use MST and React Native to create a mock e-commerce a
 
 ## Tasks
 
-1. Run `yarn install` insider project folder and then `cd ios && pod install` to install required dependencies and Pods.
+1. Run `yarn install` inside project folder and then `cd ios && pod install` to install required dependencies and Pods.
 
 2. Setup a clean React project and add a [basic MobX-State-Tree setup](#rootstore--storeprovider) with a `rootStore` and a `StoreProvider`.
 
@@ -143,5 +143,3 @@ const App = () => {
   return <StoreProvider>// app contents here</StoreProvider>;
 };
 ```
-# ecomm-shopping-cart
-# ecomm-shopping-cart
