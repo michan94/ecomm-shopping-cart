@@ -1,11 +1,10 @@
-import {types} from 'mobx-state-tree';
-import DepartmentModel from './DepartmentModel';
-import TimeHelperModel from './TimeHelperModel';
+import { types } from "mobx-state-tree";
+import DepartmentModel from "./DepartmentModel";
+import TimeHelperModel from "./TimeHelperModel";
 
 const ItemModel = types.compose(
   types
-    .model('Item', {
-      // id, createdAt, name, image, price, currency, department, updatedAt
+    .model("Item", {
       id: types.identifier,
       createdAt: types.maybe(types.string),
       name: types.maybe(types.string),
@@ -16,7 +15,7 @@ const ItemModel = types.compose(
     })
     .views((self) => ({
       get localPrice() {
-        return self.currency + self.price;
+        return self.currency! + self.price!;
       },
     }))
     .actions((self) => ({
@@ -30,7 +29,7 @@ const ItemModel = types.compose(
         this.department = newDepartment;
       },
     })),
-  TimeHelperModel,
+  TimeHelperModel
 );
 
 export default ItemModel;
